@@ -312,7 +312,7 @@ body {
     margin-left: 4px;
     font-size: 13px;
     transition: all .3s;
-    transform: translate(20px, 20px);
+    transform: translate(7px, 20px);
     visibility: hidden;
 }
 
